@@ -58,9 +58,12 @@ This system integrates multiple sensors, actuators, and energy modules:
 ---
 
 ## 📸 Project Images
-
-![Prototype](images/prototype.jpg)  
+ 
 ![Setup](images/setup.jpg)  
+![Barrier Movement](images/barrier.jpg)  
+![Pedestrian Detection](images/ultrasonic-sensor.jpg)  
+![Emergency Vehicle Override](sound-sensor/setup.jpg)  
+![Energy Harvesting by Piezoelectric Plates](images/piezo-plates.jpg)  
 
 ---
 
@@ -72,7 +75,7 @@ This system integrates multiple sensors, actuators, and energy modules:
 
 ## 📄 Project Report
 
-[View Full Report](docs/project_report.pdf)
+[View Full Report](docs/patent_report.pdf)
 
 ---
 
