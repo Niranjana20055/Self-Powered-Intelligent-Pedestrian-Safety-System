@@ -69,7 +69,7 @@ This system integrates multiple sensors, actuators, and energy modules:
 
 ## 🎥 Demo Video
 
-▶️ [Watch Demo](video/demo.mp4)
+▶️ [Watch Demo]([video/demo.mp4](https://drive.google.com/file/d/1PLnyqrELPTGwBE3i7XoFrh_Uo4A9X68C/view))
 
 ---
 
