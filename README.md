@@ -69,13 +69,13 @@ This system integrates multiple sensors, actuators, and energy modules:
 
 ## 🎥 Demo Video
 
-▶️ [Watch Demo](videos/demo.mp4)
+▶️ [Watch Demo](video/demo.mp4)
 
 ---
 
 ## 📄 Project Report
 
-[View Full Report](docs/patent_report.pdf)
+[View Full Report](documentation/patent_report.pdf)
 
 ---
 
